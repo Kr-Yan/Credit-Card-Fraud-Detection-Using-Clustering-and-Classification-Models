@@ -81,3 +81,7 @@ This project provides insights into the characteristics of fraudulent transactio
    ```bash
    git clone https://github.com/Kr-Yan/credit-card-fraud-detection.git
    cd credit-card-fraud-detection
+
+### Authors
+- Dang Pham
+- Kairuo Yan
